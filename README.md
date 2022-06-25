@@ -2,12 +2,13 @@
 
 Meu github principal: https://github.com/felipelp121 
 Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/ 
+<br>
+Como eu atualmente trabalho na Raise Sistemas (Atos6 e E-inscrição) criei esse github para fazer fork do repo publicamente.<br>
 
-Como eu atualmente trabalho na Raise Sistemas (Atos6 e E-inscrição) criei esse github para fazer fork do repo publicamente.
+Eu gostei muito da Apiki, me identifiquei com a empresa pois já trabalhei como freelancer usando wordpress.<br>
+Dessa forma, tenho um certo conhecimento sobre o CMS e gosto muito das possibilidades e facilidades que o wordpress nos dá.<br>
+Portanto, adoraria poder fazer parte da Apiki, ajudando vocês a crescer cada vez mais.<br>
 
-Eu gostei muito da Apiki, me identifiquei com a empresa pois já trabalhei como freelancer usando wordpress.
-Dessa forma, tenho um certo conhecimento o CMS e gosto muito das possibilidades e facilidades que o wordpress nos dá. 
-Portanto, adoraria poder fazer parte da Apiki, ajudando vocês a crescer cada vez mais. 
 
 <!--
 **felopesdev/felopesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
