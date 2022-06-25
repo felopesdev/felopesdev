@@ -1,7 +1,8 @@
 ### Hi there 👋
+<br>
 
-Meu github principal: https://github.com/felipelp121 
-Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/ 
+Meu github principal: https://github.com/felipelp121 <br> 
+Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/ <br>
 <br>
 Como eu atualmente trabalho na Raise Sistemas (Atos6 e E-inscrição) criei esse github para fazer fork do repo publicamente.<br>
 
