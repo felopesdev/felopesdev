@@ -8,7 +8,7 @@ Como eu atualmente trabalho na Raise Sistemas (Atos6 e E-inscrição) criei esse
 
 Eu gostei muito da Apiki, me identifiquei com a empresa pois já trabalhei como freelancer usando wordpress.<br>
 Dessa forma, tenho um certo conhecimento sobre o CMS e gosto muito das possibilidades e facilidades que o wordpress nos dá.<br>
-Portanto, adoraria poder fazer parte da Apiki, ajudando vocês a crescer cada vez mais.<br>
+Portanto, adoraria poder fazer parte da Apiki, ajudando vocês a crescer cada vez mais!<br>
 
 
 <!--
